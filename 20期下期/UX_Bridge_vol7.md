@@ -1,5 +1,6 @@
 2018.10.11
 # UX Bridge vol.7
+https://uxbridge.connpass.com/event/102717/  
 
 19:30 ~ 19:35	UX Bridge 田邊氏：UX Bridgeについて/主催者から挨拶  
 19:35 ~ 20:00	株式会社ユーザベース 竹内氏：UZABASE最初期からのエンジニアのUX視点  
